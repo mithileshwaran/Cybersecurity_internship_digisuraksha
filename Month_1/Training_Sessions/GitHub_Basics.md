@@ -1,7 +1,13 @@
-# Week 1 Assignment: GitHub & Linux
+# GitHub Basics
+
+## Topics Covered
+- What is Git and GitHub?
+- Repositories, Commits, and Branches
+- Cloning and Pushing Code
+- Pull Requests and Collaboration
 
 ## Objective
-- Set up your GitHub account
-- Create and push your first repository
-- Learn about GitHub and basic Linux Commands.
-- Choose if you want to be a member of Red Team or Blue team.
+By the end of this session, interns should be able to:
+- Initialize a repo
+- Push code to GitHub
+- Collaborate using branches and pull requests
